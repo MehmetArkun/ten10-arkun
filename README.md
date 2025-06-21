@@ -19,4 +19,4 @@ The application behaves in a user-friendly manner except when the user does not 
 
 Clear error messages are displayed for missing inputs, except when the consent box is left unchecked—in this case, no error message is shown, which appears to be a bug.
 
-Additionally, I observed a usability issue during testing: the application repeatedly logged me out approximately every 20–30 seconds, which persisted throughout the process.
+Additionally, I observed a usability issue during testing: the application repeatedly logged me out approximately every 20–30 seconds, which persisted throughout the process from the very beginning.
